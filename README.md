@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlmank2aXNyNzlqeDI1eHlkdTkydXF2NmZmZzJ2cTFwMWRrcnh5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IXnygGeB6LPPi/giphy.gif" width="200" height="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRrcG1wc3cwdWhnNGx2cG5iNjI5NTVjYnQ2ZjV5NXg1d3Jlc3VhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" width="200" height="200"/>
 </div>
 <!-- <div align="center"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></div> -->
 <h1>👋 Hi, I’m Anand </h1>
