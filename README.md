@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dECBf0xnwQKCPZOkiC/giphy.gif" width="200" height="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpjenZoNnpyYWc4cGRkYWpvMnhvb255ejJzbjRwMGRqY213YnV0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif" width="200" height="200"/>
 </div>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></div>
+<!-- <div align="center"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></div> -->
 <h1>👋 Hi, I’m Anand </h1>
 <hr>
 <h2>▂ ▄ ▅ <strong> PENITRATION TESTOR </strong> ▅ ▄ ▂</h2>
-<p><h3>[Turning weaknesses into your strongest defense]</h3></p>
+<p><h3>[Turning Weaknesses Into Your Strongest Defense]</h3></p>
 👑Welcome to my Network👑<br>
 ⏺ Cybersecurity Student👩‍💻<br>
 <hr>
