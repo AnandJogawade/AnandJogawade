@@ -5,7 +5,7 @@
 <h1>👋 Hi, I’m Anand </h1>
 <hr>
 <h2>▂ ▄ ▅ <strong> PENITRATION TESTOR </strong> ▅ ▄ ▂</h2>
-<p><h3>[THE QUITRE YOU BECOME : THE MORE YOU ARE ABLE TO HEAR]</h3></p>
+<p><h3>[Turning weaknesses into your strongest defense]</h3></p>
 👑Welcome to my Network👑<br>
 ⏺ Cybersecurity Student👩‍💻<br>
 <hr>
