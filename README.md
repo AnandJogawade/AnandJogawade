@@ -27,16 +27,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://twitter.com/c_h_a_i_2">
+  <a href="">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-  <a href="https://discord.com/channels/952987712116379710/952987712649068565">
+  <a href="">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   
    <a href="https://www.instagram.com/_joy_4_u/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="" alt="Instagram Badge"/>
   </a>
   
   
@@ -64,19 +64,7 @@
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
 </div>
 <br>
-<h2>:fire: My Stats :</h2>
-<p align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Chaitu785&theme=dark&hide_border=true&sideNums=15DD00&stroke=00DD1E&background=000000)](https://git.io/streak-stats"/>
-</p>
-<br>
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=Chaitu785=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Chaitu785&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitu785&hide=php&theme=tokyonight" />
-</a>
+
 </div>
 
 
