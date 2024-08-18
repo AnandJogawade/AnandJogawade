@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   
-   <a href="https://www.instagram.com/x_._anand_._x?igsh=MW1zZmN0dzAzc3dtZg==">
+   <a href="https://www.instagram.com/x_._anand_._x/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   
   
