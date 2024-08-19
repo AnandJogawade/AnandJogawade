@@ -9,7 +9,7 @@
 
 <h2 align="center">▂ ▄ ▅ <strong>PENETRATION TESTER</strong> ▅ ▄ ▂</h2>
 
-<p align="center"><h3>[Turning Weaknesses Into Your Strongest Defense]</h3></p>
+<h3 align="center">[Turning Weaknesses Into Your Strongest Defense]</h3>
 
 <p align="center">👑 Welcome 👑</p>
 <p align="center">⏺ CyberSecurity 👩‍💻</p>
