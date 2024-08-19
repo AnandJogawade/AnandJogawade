@@ -10,7 +10,7 @@
 ⏺ CyberSecurity 👩‍💻<br>
 <hr>
 
-<h2> <a href=""> Visit my Portfolio.. !</a> </h2><br>
+<h2> <a href="portfolio-main/index.html"> Visit my Portfolio.. !</a> </h2><br>
 <br>
 <h2>My Resume</h2>
 
