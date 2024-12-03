@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/JpGRoqJXTqv4f1mrJb/giphy.gif?cid=790b7611fu1uhqdtchztc3tldrx3qx777d88cmxt3f1lslrt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="200" alt="Animated Header"/>
 </div>
 
-<h1 align="center">👋 Hi, I’m @Anand</h1>
+<h1 align="center">👋 Hi, I’m Anand</h1>
 
 <hr>
 
@@ -35,7 +35,6 @@
   </a>
 </div>
 
-<!--
-Harsh7758/Harsh7758 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+#AnandJogawade
+#anandjogawade
+
