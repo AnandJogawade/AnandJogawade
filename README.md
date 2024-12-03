@@ -35,6 +35,4 @@
   </a>
 </div>
 
-#AnandJogawade
-#anandjogawade
 
