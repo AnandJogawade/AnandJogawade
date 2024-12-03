@@ -17,7 +17,7 @@
 <hr>
 
 <h2 align="center">
-  <a href="https://anand7758.github.io/" target="_blank">Visit My Portfolio</a>
+  <a href="https://anandjogawade.github.io/" target="_blank">Visit My Portfolio</a>
 </h2>
 
 <h2 align="center">
