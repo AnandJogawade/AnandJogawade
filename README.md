@@ -12,7 +12,7 @@
 Name:            Anand Jogawade (Zazy)
 Role:            Penetration Tester, Red Teamer & Security Researcher
 Focus:           Offensive Security | Red Team | Bug Bounty | Security Research
-Certs:            CRTP | ECPPTv3 | AD-RTS | CRTA | CRT-COI
+Certs:           CRTP | ECPPTv3 | AD-RTS | CRTA | CRT-COI
 CVEs:            CVE-2026-48849 (Roundcube Webmail Stored XSS)
 Motto:           "Turning Weaknesses Into Your Strongest Defense"
 ```
