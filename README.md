@@ -66,6 +66,7 @@ Motto:      "Turning Weaknesses Into Your Strongest Defense"
 | 🛡️ [**RedTeam-PowerShell-AMSI-Bypass**](https://github.com/AnandJogawade/RedTeam-PowerShell-AMSI-Bypass) | AMSI bypass techniques — reflection, memory patching, syscall, obfuscation |
 | 🐚 [**Windows-Reverse-Shell**](https://github.com/AnandJogawade/Windows-Reverse-Shell) | 29+ reverse shell payloads — basic, advanced, persistent, encrypted, HTTP beacon |
 | 🔓 [**CVE-2026-48849**](https://github.com/AnandJogawade/CVE-2026-48849-Roundcube-Webmail-Stored-XSS) | Stored XSS in Roundcube Webmail — discovered & reported by me |
+| ? [**Zazy-Pentest-Plugin-for-Claude**](https://github.com/AnandJogawade/Zazy-Pentest-Plugin-for-Claude) | Pentesting plugin for Claude Code � automates security testing workflows |
 
 </div>
 
