@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 Name:       Anand Jogawade (Zazy)
@@ -18,15 +18,15 @@ Motto:      "Turning Weaknesses Into Your Strongest Defense"
 
 ---
 
-## 🏆 CVE Discoveries
+## CVE Discoveries
 
 | CVE ID | Product | Type | CVSS | Details |
 |:-------|:--------|:-----|:-----|:--------|
-| [CVE-2026-48849](https://github.com/AnandJogawade/CVE-2026-48849-Roundcube-Webmail-Stored-XSS) | Roundcube Webmail | Stored XSS / HTML / CSS Injection | 4.4 Medium | Auto-executes on session restore — [advisory](https://roundcube.net/news/2026/05/24/security-updates-1.6.16-and-1.7.1) |
+| [CVE-2026-48849](https://github.com/AnandJogawade/CVE-2026-48849-Roundcube-Webmail-Stored-XSS) | Roundcube Webmail | Stored XSS / HTML / CSS Injection | 4.4 Medium | Auto-executes on session restore - [advisory](https://roundcube.net/news/2026/05/24/security-updates-1.6.16-and-1.7.1) |
 
 ---
 
-## 🛠️ Arsenal & Tech Stack
+## Arsenal & Tech Stack
 
 <div align="center">
 
@@ -57,22 +57,22 @@ Motto:      "Turning Weaknesses Into Your Strongest Defense"
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description |
 |:--------|:-----------|
-| 🛡️ [**RedTeam-PowerShell-AMSI-Bypass**](https://github.com/AnandJogawade/RedTeam-PowerShell-AMSI-Bypass) | AMSI bypass techniques — reflection, memory patching, syscall, obfuscation |
-| 🐚 [**Windows-Reverse-Shell**](https://github.com/AnandJogawade/Windows-Reverse-Shell) | 29+ reverse shell payloads — basic, advanced, persistent, encrypted, HTTP beacon |
-| 🔓 [**CVE-2026-48849**](https://github.com/AnandJogawade/CVE-2026-48849-Roundcube-Webmail-Stored-XSS) | Stored XSS in Roundcube Webmail — discovered & reported by me |
-| ? [**Zazy-Pentest-Plugin-for-Claude**](https://github.com/AnandJogawade/Zazy-Pentest-Plugin-for-Claude) | Pentesting plugin for Claude Code � automates security testing workflows |
+| [**RedTeam-PowerShell-AMSI-Bypass**](https://github.com/AnandJogawade/RedTeam-PowerShell-AMSI-Bypass) | AMSI bypass techniques - reflection, memory patching, syscall, obfuscation |
+| [**Windows-Reverse-Shell**](https://github.com/AnandJogawade/Windows-Reverse-Shell) | 29+ reverse shell payloads - basic, advanced, persistent, encrypted, HTTP beacon |
+| [**CVE-2026-48849**](https://github.com/AnandJogawade/CVE-2026-48849-Roundcube-Webmail-Stored-XSS) | Stored XSS in Roundcube Webmail - discovered and reported by me |
+| [**Zazy-Pentest-Plugin-for-Claude**](https://github.com/AnandJogawade/Zazy-Pentest-Plugin-for-Claude) | Pentesting plugin for Claude Code - automates security testing workflows |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -82,21 +82,21 @@ Motto:      "Turning Weaknesses Into Your Strongest Defense"
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
-- 🔴 **Penetration Testing** — Web apps, mobile (Android/iOS), APIs, network infrastructure
-- 🐛 **Bug Bounty** — Finding vulnerabilities in production systems
-- 🛡️ **Red Team Operations** — Simulating real-world attacks to test defenses
-- 📝 **Security Research** — CVE discovery, exploit development, tool building
-- 🧰 **Tool Development** — PowerShell offensive tools, reverse shells, AMSI bypasses
+- **Penetration Testing** - Web apps, mobile (Android/iOS), APIs, network infrastructure
+- **Bug Bounty** - Finding vulnerabilities in production systems
+- **Red Team Operations** - Simulating real-world attacks to test defenses
+- **Security Research** - CVE discovery, exploit development, tool building
+- **Tool Development** - PowerShell offensive tools, reverse shells, AMSI bypasses
 
 ---
 
 <div align="center">
 
-### 🌐 Portfolio
+### Portfolio
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge)](https://anandjogawade.github.io/)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge)](https://anandjogawade.github.io/)
 
 ---
 
