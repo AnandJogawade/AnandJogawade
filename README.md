@@ -9,11 +9,12 @@
 ## About Me
 
 ```yaml
-Name:       Anand Jogawade (Zazy)
-Role:       Penetration Tester, Red Teamer & Security Researcher
-Focus:      Offensive Security | Red Team | Bug Bounty | Security Research
-CVEs:       CVE-2026-48849 (Roundcube Webmail Stored XSS)
-Motto:      "Turning Weaknesses Into Your Strongest Defense"
+Name:            Anand Jogawade (Zazy)
+Role:            Penetration Tester, Red Teamer & Security Researcher
+Focus:           Offensive Security | Red Team | Bug Bounty | Security Research
+Offensive Certs: CRTP | ECPPTv3 | AD-RTS | CRTA | CRT-COI
+CVEs:            CVE-2026-48849 (Roundcube Webmail Stored XSS)
+Motto:           "Turning Weaknesses Into Your Strongest Defense"
 ```
 
 ---
@@ -33,8 +34,8 @@ Motto:      "Turning Weaknesses Into Your Strongest Defense"
 **Offensive Tools**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite Pro](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit Pro](https://img.shields.io/badge/Metasploit_Pro-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Acunetix](https://img.shields.io/badge/Acunetix-6C3ECB?style=for-the-badge&logoColor=white)
 ![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-E32636?style=for-the-badge&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
