@@ -39,12 +39,18 @@ Motto:           "Turning Weaknesses Into Your Strongest Defense"
 ![Acunetix](https://img.shields.io/badge/Acunetix-6C3ECB?style=for-the-badge&logoColor=white)
 ![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-E32636?style=for-the-badge&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-DC143C?style=for-the-badge&logoColor=white)
+![Impacket](https://img.shields.io/badge/Impacket-333333?style=for-the-badge&logoColor=white)
+![Netexec](https://img.shields.io/badge/Netexec-00AA00?style=for-the-badge&logoColor=white)
 
 **Languages & Scripting**
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Platforms & Environment**
 
