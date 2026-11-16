@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%93+Anand+Jogawade;Penetration+Tester+%7C+Security+Researcher+%7C+Red+Teamer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=600&lines=Anand+Jogawade+(Zazy);Penetration+Tester+%7C+Red+Teamer;Security+Researcher+%7C+Bug+Bounty+Hunter" alt="Typing SVG" />
 
 </div>
 
@@ -9,10 +9,9 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-Name:       Anand Jogawade
-Role:       Penetration Tester & Security Researcher
-Focus:      Offensive Security | Red Team | Bug Bounty
-Targets:    Web, Android, iOS, API, Network
+Name:       Anand Jogawade (Zazy)
+Role:       Penetration Tester, Red Teamer & Security Researcher
+Focus:      Offensive Security | Red Team | Bug Bounty | Security Research
 CVEs:       CVE-2026-48849 (Roundcube Webmail Stored XSS)
 Motto:      "Turning Weaknesses Into Your Strongest Defense"
 ```
@@ -34,17 +33,17 @@ Motto:      "Turning Weaknesses Into Your Strongest Defense"
 **Offensive Tools**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite Pro](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit Pro](https://img.shields.io/badge/Metasploit_Pro-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Acunetix](https://img.shields.io/badge/Acunetix-6C3ECB?style=for-the-badge&logoColor=white)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-E32636?style=for-the-badge&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **Languages & Scripting**
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Platforms & Environment**
 
@@ -52,6 +51,7 @@ Motto:      "Turning Weaknesses Into Your Strongest Defense"
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
@@ -61,11 +61,11 @@ Motto:      "Turning Weaknesses Into Your Strongest Defense"
 
 <div align="center">
 
-[![AMSI Bypass](https://github-readme-stats.vercel.app/api/pin/?username=AnandJogawade&repo=RedTeam-PowerShell-AMSI-Bypass&theme=radical&hide_border=true)](https://github.com/AnandJogawade/RedTeam-PowerShell-AMSI-Bypass)
-[![Reverse Shell](https://github-readme-stats.vercel.app/api/pin/?username=AnandJogawade&repo=Windows-Reverse-Shell&theme=radical&hide_border=true)](https://github.com/AnandJogawade/Windows-Reverse-Shell)
-
-[![CVE-2026-48849](https://github-readme-stats.vercel.app/api/pin/?username=AnandJogawade&repo=CVE-2026-48849-Roundcube-Webmail-Stored-XSS&theme=radical&hide_border=true)](https://github.com/AnandJogawade/CVE-2026-48849-Roundcube-Webmail-Stored-XSS)
-[![PSSW100AVB](https://github-readme-stats.vercel.app/api/pin/?username=AnandJogawade&repo=PSSW100AVB&theme=radical&hide_border=true)](https://github.com/AnandJogawade/PSSW100AVB)
+| Project | Description |
+|:--------|:-----------|
+| 🛡️ [**RedTeam-PowerShell-AMSI-Bypass**](https://github.com/AnandJogawade/RedTeam-PowerShell-AMSI-Bypass) | AMSI bypass techniques — reflection, memory patching, syscall, obfuscation |
+| 🐚 [**Windows-Reverse-Shell**](https://github.com/AnandJogawade/Windows-Reverse-Shell) | 29+ reverse shell payloads — basic, advanced, persistent, encrypted, HTTP beacon |
+| 🔓 [**CVE-2026-48849**](https://github.com/AnandJogawade/CVE-2026-48849-Roundcube-Webmail-Stored-XSS) | Stored XSS in Roundcube Webmail — discovered & reported by me |
 
 </div>
 
@@ -75,10 +75,7 @@ Motto:      "Turning Weaknesses Into Your Strongest Defense"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnandJogawade&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandJogawade&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandJogawade&layout=compact&theme=radical&hide_border=true" width="40%" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandJogawade&theme=radical&hide_border=true" width="60%" alt="GitHub Streak"/>
 
 </div>
 
